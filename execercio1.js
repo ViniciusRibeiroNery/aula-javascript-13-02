@@ -9,6 +9,6 @@ console.log("Nome: " + nome, "Idade: " + idade, "Situação: " + aprovado, "Nota
 /*                     
                             Explicação sobre a diferança de "null" e "undefined" 
 
-                    "Null" - Utilizado para indicar que uma variavel não tem valor ou quando uma variavel deve ser zerada.
+                    "Null" - Utilizado para indicar que uma variavel não tem valor ou quando uma variavel deve ser zerada e pode ter um valor no futuro.
                     "undefined" - Utilizado para indicar uma variavel que não foi defininda ainda ou que não existe. 
 */ 
