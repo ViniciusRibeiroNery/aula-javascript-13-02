@@ -4,16 +4,16 @@ let numero = 5;
 
 // condicional para verificar se o número é positivo, negativo ou zero.
 if (numero >0){
-    console.log("O número: " + numero + "é positivo.");
+    console.log("O número: " + numero + " é positivo.");
 } else if (numero <0){
-    console.log("O número: " + numero + "é negativo.");
+    console.log("O número: " + numero + " é negativo.");
 } else{
-    console.log("O número: " + numero + "é zero.")
+    console.log("O número: " + numero + " é zero.")
 }
 
 // Criação de um loop com "for" para imprimir número de 1 a 10.
 
-for(let i = 0; i < 11; i++){
+for(let i = 1; i < 11; i++){
     console.log("Contador: ", i)
 }
 
