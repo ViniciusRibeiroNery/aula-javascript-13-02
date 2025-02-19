@@ -3,7 +3,7 @@
 function converterParaMaiuscula(texto){
     return texto.toUpperCase();
 }
-const converterParaMaiusculasArrow = texto =>texto.toUppercase();
+const converterParaMaiusculasArrow = texto =>texto.toUpperCase();
 
 console.log(converterParaMaiuscula("Teste"));
 console.log(converterParaMaiusculasArrow("teste"));
